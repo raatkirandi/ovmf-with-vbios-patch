@@ -8,3 +8,5 @@ Additionally, adds support for Intel GVT-g / RAMFB, which finally allows emulati
 
 Tested and confirmed to work on Dell XPS 15 (9570).
 
+Added Dell G15 5515 RTX 3060 vbios
+
